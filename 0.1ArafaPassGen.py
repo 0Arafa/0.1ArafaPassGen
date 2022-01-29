@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from string import ascii_lowercase,ascii_uppercase
 from random import shuffle,choices
 from os import system
